@@ -2,9 +2,9 @@
 
 In this page I display some examples of the work I did during the Data Analysis Program at Career Foundry. The program is designed to cover all the skills, tools, and processes necessary to become a data analyst. Specifically, we covered topics such as:
 
-⋅⋅* Preparing and Analysing Data
-⋅⋅* Data Visualization & Storytelling
-⋅⋅* Databases & SQL for Analysts
+* Preparing and Analysing Data
+* Data Visualization & Storytelling
+* Databases & SQL for Analysts
 ⋅⋅* Python Fundamentals for Data Analysts
 ⋅⋅* Exploratory Data Analysis & Dashboards
 ⋅⋅* Data Mining & Ethics
