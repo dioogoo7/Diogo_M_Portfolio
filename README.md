@@ -9,4 +9,4 @@ In this page I share a presentation of the projects I worked during the Data Ana
 * Exploratory Data Analysis & Dashboards
 * Data Mining & Ethics
 
-The presentation included in this repository includes links to code I have written, as well as visualitions and reports I have created. Have fun!
+The presentation includes links to code I have written, as well as visualitions and reports I have created. Have fun!
